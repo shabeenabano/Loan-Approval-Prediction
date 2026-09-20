@@ -1,31 +1,17 @@
-# Loan Approval Prediction
+# 💳 Loan Approval Prediction
 
 ## 📌 Project Overview
 
-Loan Approval Prediction is a Machine Learning project that predicts whether a loan application will be approved or rejected based on applicant financial and personal information.
+This project focuses on predicting loan approval decisions using Machine Learning. The analysis includes data understanding, data cleaning, exploratory data analysis, feature engineering, model training, and model evaluation.
 
-The project includes data cleaning, exploratory data analysis, visualization, feature engineering, model training, and model evaluation.
+## 🎯 Objectives
 
-## 🎯 Objective
-
-The main objective of this project is to build a Machine Learning model that can predict loan approval status accurately.
-
-## 📊 Dataset
-
-The dataset contains information about loan applicants, including:
-
-- Number of Dependents
-- Education
-- Self Employed
-- Annual Income
-- Loan Amount
-- Loan Term
-- CIBIL Score
-- Residential Assets Value
-- Commercial Assets Value
-- Luxury Assets Value
-- Bank Asset Value
-- Loan Status
+- Analyze factors affecting loan approval
+- Perform data cleaning and preprocessing
+- Explore relationships between applicant features and loan approval
+- Build classification models for loan approval prediction
+- Compare model performance using evaluation metrics
+- Identify important features influencing predictions
 
 ## 🛠️ Technologies Used
 
@@ -39,29 +25,40 @@ The dataset contains information about loan applicants, including:
 
 ## 🔍 Project Workflow
 
-1. Import Required Libraries
-2. Load the Dataset
-3. Data Understanding
-4. Data Cleaning
-5. Exploratory Data Analysis (EDA)
-6. Data Visualization
-7. Feature Engineering
-8. Encoding Categorical Variables
-9. Train-Test Split
-10. Model Building
-11. Model Evaluation
-12. Feature Importance
-13. Final Conclusion
+1. Data Loading
+2. Data Understanding
+3. Data Cleaning
+4. Exploratory Data Analysis
+5. Feature Engineering
+6. Train-Test Split
+7. Model Training
+8. Model Comparison
+9. Feature Importance Analysis
+10. Model Evaluation
 
-## 🤖 Machine Learning
+## 🤖 Machine Learning Models
 
-The project uses Machine Learning classification techniques to predict the loan approval status.
+Two classification models were evaluated:
 
-The dataset is divided into training and testing sets, and the trained model is evaluated using appropriate classification metrics.
+- Logistic Regression
+- Random Forest Classifier
+
+The Random Forest model achieved an accuracy of approximately **98.36%** on the evaluated test data.
+
+## 📊 Model Performance
+
+| Model | Accuracy |
+|---|---:|
+| Logistic Regression | 80.80% |
+| Random Forest | 98.36% |
+
+## ⭐ Feature Importance
+
+Feature importance analysis showed that **CIBIL Score** was the most influential feature in the Random Forest model, with approximately **80.1% feature importance** in the notebook results.
 
 ## 📈 Evaluation Metrics
 
-The model performance is evaluated using:
+The models were evaluated using classification metrics including:
 
 - Accuracy
 - Precision
@@ -69,9 +66,24 @@ The model performance is evaluated using:
 - F1-Score
 - Confusion Matrix
 
-## 💡 Key Insights
+## 💡 Key Skills Demonstrated
 
-- CIBIL score is an important factor in loan approval prediction.
-- Applicant income and loan amount can influence approval decisions.
-- Applicant assets provide additional financial information.
-- Machine Learning can help automate loan approval prediction.
+- Data Cleaning
+- Exploratory Data Analysis
+- Feature Engineering
+- Data Visualization
+- Classification
+- Logistic Regression
+- Random Forest
+- Feature Importance
+- Model Evaluation
+- Python Programming
+- Machine Learning
+
+
+👩‍💻 Author
+
+Shabeena Bano
+
+GitHub: https://github.com/shabeenabano
+LinkedIn: https://www.linkedin.com/in/shabeena-bano-49861542b/
