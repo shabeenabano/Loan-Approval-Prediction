@@ -80,7 +80,37 @@ The models were evaluated using classification metrics including:
 - Python Programming
 - Machine Learning
 
+## 📊 Project Visualizations
 
+### Loan Approval Status
+![Loan Approval Status](01_loan_approval_status.png)
+
+### Education Distribution
+![Education Distribution](02_education_distribution.png)
+
+### Annual Income Distribution
+![Annual Income Distribution](03_annual_income_distribution.png)
+
+### Loan Amount Distribution
+![Loan Amount Distribution](04_loan_amount_distribution.png)
+
+### CIBIL Score Distribution
+![CIBIL Score Distribution](05_cibil_score_distribution.png)
+
+### CIBIL Score vs Loan Status
+![CIBIL Score vs Loan Status](06_cibil_score_vs_loan_status.png)
+
+### Logistic Regression Confusion Matrix
+![Logistic Regression Confusion Matrix](07_logistic_regression_confusion_matrix.png)
+
+### Random Forest Confusion Matrix
+![Random Forest Confusion Matrix](08_random_forest_confusion_matrix.png)
+
+### Model Accuracy Comparison
+![Model Accuracy Comparison](09_model_accuracy_comparison.png)
+
+### Random Forest Feature Importance
+![Random Forest Feature Importance](10_random_forest_feature_importance.png)
 
 👩‍💻 Author
 
