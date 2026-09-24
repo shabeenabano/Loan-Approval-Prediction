@@ -52,6 +52,13 @@ The Random Forest model achieved an accuracy of approximately **98.36%** on the 
 | Logistic Regression | 80.80% |
 | Random Forest | 98.36% |
 
+## 🔍 Key Findings
+
+- Random Forest achieved **98.36% accuracy**, outperforming Logistic Regression at **80.80%**.
+- **CIBIL Score** was the most influential feature in the Random Forest model, contributing approximately **80.1%** of feature importance.
+- Exploratory analysis shows that applicant financial characteristics play an important role in loan approval outcomes.
+- The project demonstrates the use of **EDA, feature engineering, classification models, and model evaluation** for loan approval prediction.
+
 ## ⭐ Feature Importance
 
 Feature importance analysis showed that **CIBIL Score** was the most influential feature in the Random Forest model, with approximately **80.1% feature importance** in the notebook results.
