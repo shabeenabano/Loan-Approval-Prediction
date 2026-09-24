@@ -145,6 +145,11 @@ Loan-Approval-Prediction/
 └── 10_random_forest_feature_importance.png
 ```
 
+## 🎯 Business Objective
+
+The objective of this project is to analyze applicant information and build a machine learning model that can predict loan approval outcomes. The analysis helps identify important factors associated with loan approval and demonstrates how classification models can support data-driven decision-making.
+
+
 👩‍💻 Author
 
 Shabeena Bano
