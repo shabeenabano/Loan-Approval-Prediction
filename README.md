@@ -15,13 +15,13 @@ This project focuses on predicting loan approval decisions using Machine Learnin
 
 ## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
+- **Programming:** Python
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
+- **Machine Learning:** Scikit-learn
+- **Models:** Logistic Regression, Random Forest
+- **Techniques:** EDA, Data Preprocessing, Feature Engineering, Classification
+- **Evaluation:** Accuracy, Confusion Matrix, Feature Importance
+- **Environment:** Jupyter Notebook
 
 ## 🔍 Project Workflow
 
