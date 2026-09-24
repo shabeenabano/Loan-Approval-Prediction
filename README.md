@@ -144,11 +144,11 @@ Loan-Approval-Prediction/
 ├── 09_model_accuracy_comparison.png
 └── 10_random_forest_feature_importance.png
 
+
 👩‍💻 Author
 
 Shabeena Bano
 
 GitHub: https://github.com/shabeenabano
-
 
 LinkedIn: https://www.linkedin.com/in/shabeena-bano-49861542b/
