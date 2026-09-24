@@ -149,6 +149,15 @@ Loan-Approval-Prediction/
 
 The objective of this project is to analyze applicant information and build a machine learning model that can predict loan approval outcomes. The analysis helps identify important factors associated with loan approval and demonstrates how classification models can support data-driven decision-making.
 
+## 📈 Model Results
+
+| Model | Accuracy |
+|---|---:|
+| Logistic Regression | 80.80% |
+| Random Forest | 98.36% |
+
+### Best Model
+**Random Forest** achieved **98.36% accuracy** on the test dataset and was selected as the final model for this project.
 
 👩‍💻 Author
 
