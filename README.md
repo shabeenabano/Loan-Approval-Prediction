@@ -143,7 +143,7 @@ Loan-Approval-Prediction/
 ├── 08_random_forest_confusion_matrix.png
 ├── 09_model_accuracy_comparison.png
 └── 10_random_forest_feature_importance.png
-
+```
 
 👩‍💻 Author
 
