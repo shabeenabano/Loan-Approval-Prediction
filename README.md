@@ -126,6 +126,24 @@ The models were evaluated using classification metrics including:
 ### Random Forest Feature Importance
 ![Random Forest Feature Importance](10_random_forest_feature_importance.png)
 
+
+## 📁 Project Structure
+
+```text
+Loan-Approval-Prediction/
+├── Loan_Approval_Prediction.ipynb
+├── README.md
+├── 01_loan_approval_status.png
+├── 02_education_distribution.png
+├── 03_annual_income_distribution.png
+├── 04_loan_amount_distribution.png
+├── 05_cibil_score_distribution.png
+├── 06_cibil_score_vs_loan_status.png
+├── 07_logistic_regression_confusion_matrix.png
+├── 08_random_forest_confusion_matrix.png
+├── 09_model_accuracy_comparison.png
+└── 10_random_forest_feature_importance.png
+
 👩‍💻 Author
 
 Shabeena Bano
